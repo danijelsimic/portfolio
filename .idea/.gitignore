@@ -1,0 +1,9 @@
+# Node.js
+node_modules/
+
+# IDEs
+.idea/
+
+# Betriebssystem-Dateien
+.DS_Store
+Thumbs.db
